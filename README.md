@@ -1,0 +1,2 @@
+# odin_recipes
+This project will be a basic recipe website consisting of six main pages which will include links to multiple recipes. By the end of this project I will have demonstrated experience in html skills such as unordered/ordered lists and hypertext links used to link to other pages on my website. 
