@@ -1,12 +1,11 @@
 body {
     margin: 0;
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 8px;
     background-color: lightgoldenrodyellow;
 }
 
 h1 {
-    margin: 0;
+    margin: 0 auto;
     background-color: lightgoldenrodyellow;
     text-align: center;
 }
